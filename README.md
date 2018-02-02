@@ -28,11 +28,11 @@ Create a python file with the name "keys.py" and add the following with your new
 # Run the script
 There are two scripts that you can use:
 
-## Follow your followers (follows every follower you currently have if you not already are following them)
+### Follow your followers (follows every follower you currently have if you not already are following them)
 
     python follow.py
     
-## Unfollow people that are not following you back
+### Unfollow people that are not following you back
 
     python unfollow.py
     
